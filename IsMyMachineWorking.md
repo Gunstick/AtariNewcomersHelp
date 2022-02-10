@@ -1,4 +1,5 @@
 You are new to the ST world, how do you determine if the new machine works?
+----------------------------------------------------------------------------
 
 * before even getting your ST, you should know that the ST is as brittle as glass.  
 Ask the seller to put it in 5 layers of bubble wrap, put that in a box.  
@@ -20,3 +21,8 @@ On STE you can connect an amp to the cinch connectors. If you hear a click, then
 ALT+insert is left click. ALT+clrhome is right click. Add SHIFT for slow move.
 
 I guess many more simple tests can be added here...
+
+How to care about my machine? Fixes, cleaning to do etc...
+-----------------------------------------------------------
+
+Check out this post for recapping, upgrades etc https://www.exxoshost.co.uk/forum/viewtopic.php?t=1585&fbclid=IwAR23mnyu4eU7ci5i8JN4yH5ijxD34PJ7Wv8O_MO2AV8pPlp-tccBRFS8TsU
